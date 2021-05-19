@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn
+matplotlib
+scipy
+bs4
+lxml
+nltk
+vaderSentiment
+patsy
+statsmodels
